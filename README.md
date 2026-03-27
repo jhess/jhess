@@ -15,6 +15,7 @@ I'm a software engineer interested in machine learning, deep learning, AI agent 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Math.NET Numerics](https://img.shields.io/badge/-Math.NET_Numerics%20-blueviolet?logo=dotnet)
 
 ---
 
