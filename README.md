@@ -4,7 +4,7 @@ I'm a software engineer interested in machine learning, deep learning, AI agent 
 
 - 🔧 Work in the Biotechnology instrument industry currently
 - 🤖 Work with AI agents and open-source tools for deep learning
-- Back-end; ML training, inference, deployment; full-stack
+- C# Back-end; Python/PyTorch/Ray ML training, inference, deployment; full-stack (some 
 
 ---
 
@@ -17,6 +17,7 @@ I'm a software engineer interested in machine learning, deep learning, AI agent 
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Math.NET Numerics](https://img.shields.io/badge/-Math.NET_Numerics%20-blueviolet?logo=dotnet)
 
