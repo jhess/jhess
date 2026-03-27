@@ -4,7 +4,7 @@ I'm a software engineer interested in machine learning, deep learning, AI agent 
 
 - 🔧 Work in the Biotechnology instrument industry currently
 - 🤖 Work with AI agents and open-source tools for deep learning
-- C# Back-end; Python/PyTorch/Ray ML training, inference, deployment; full-stack (some 
+- C# Back-end; Python/PyTorch/Ray ML training, inference, deployment; full-stack (PostgreSQL, AWS)
 
 ---
 
