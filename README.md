@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-I'm a software engineer interested in machine learning, deep learning, AI agent frameworks and LLMs.
+I'm a software engineer interested in machine learning, deep learning, AI agent runtimes and LLMs.
 
 - 🔧 Work in the Biotechnology instrument industry currently
 - 🤖 Work with AI agents and open-source tools for deep learning, agent runtimes, and LLM frameworks
