@@ -21,7 +21,7 @@ I'm a software engineer interested in machine learning, deep learning, AI agent 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Math.NET](https://img.shields.io/badge/Math.NET-blue?style=for-the-badge&logo=.net&logoColor=white)
+![Math.NET Numerics](https://img.shields.io/badge/-Math.NET_Numerics%20-blueviolet?logo=dotnet)
 
 ---
 
